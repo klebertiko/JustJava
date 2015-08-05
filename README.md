@@ -1,2 +1,2 @@
 # JustJava
-Udacity/Google simple coffee order app
+Udacity/Google simple coffee order Android app.
